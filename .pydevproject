@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.7</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/quotient_familial/tests</path>
+<path>/quotient_familial/example</path>
+</pydev_pathproperty>
+<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+<path>/home/utilisateur1/Documents/openfisca/openfisca-core</path>
+<path>/home/utilisateur1/Documents/openfisca/openfisca-france</path>
+<path>/home/utilisateur1/Documents/openfisca/openfisca-qt</path>
+<path>/home/utilisateur1/Documents/openfisca/biryani</path>
+<path>model</path>
+</pydev_pathproperty>
+<pydev_variables_property name="org.python.pydev.PROJECT_VARIABLE_SUBSTITUTION">
+<key>simulation</key>
+<value>ScenarioSImulation</value>
+</pydev_variables_property>
+</pydev_project>
